@@ -16,6 +16,8 @@ A tool to auto-compile & install KCPTUN for SS/SSR on Linux
         * [防火墙设置示例](#Firewall)
 * [更新](#Update)
 * [卸载](#UnInstall)
+*[源文件](https://raw.githubusercontent.com/onekeyshell/kcptun_for_ss_ssr/master/kcptun_for_ss_ssr-install.sh) 
+
 
 ******
 
